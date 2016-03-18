@@ -1,0 +1,32 @@
+#banner-image {
+  /*margin: 1em;*/
+  border: 0.3em solid white;
+}
+
+li {
+
+  list-style: none
+}
+
+ul {
+  padding-left: 0em;
+  overflow: hidden;
+  }
+
+.translations {
+  margin: 1em;
+}
+
+.special-schedule {
+  background-color: gray;
+  border: 0.2em solid white;
+}
+
+.birthday {
+  text-align: center;
+}
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
